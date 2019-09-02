@@ -1,0 +1,18 @@
+.bg-primary {
+  background-color: #18bc9c!important;
+}
+
+hr.star-dark:after, hr.star-light:after {
+  position: relative;
+  top: -.8em;
+  display: inline-block;
+  padding: 0 .25em;
+  content: "\f0a0";
+  font-family: FontAwesome;
+  font-size: 2em;
+}
+
+a {
+  color: white;
+}
+
